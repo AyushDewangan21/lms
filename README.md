@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-[Click here to view the project](https://lms-fronntend)
+[Click here to view the project](https://lms-fronntend.vercel.app/)
 
 
 ## 🎓 Learning Management System (LMS)
